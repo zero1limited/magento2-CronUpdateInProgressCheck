@@ -1,0 +1,18 @@
+{
+    "name": "zero1\/module-cron-update-in-progress-check",
+    "description": "N\/A",
+    "require": { },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "commercial"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Zero1\\CronUpdateInProgressCheck\\": ""
+        }
+    }
+}
